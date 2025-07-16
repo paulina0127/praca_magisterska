@@ -1,4 +1,4 @@
-## Zastosowanie metod uczenia maszynowego do prognozowania ryzyka ±mierci pacjenta
+## Zastosowanie metod uczenia maszynowego do prognozowania ryzyka śmierci pacjenta
 
 ### Zawartość repozytorium
 | Plik | Opis |
